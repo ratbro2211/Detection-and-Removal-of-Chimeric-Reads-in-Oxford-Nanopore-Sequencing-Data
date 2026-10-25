@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+# Sequencing inputs and large intermediate files are not committed.
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.pod5
+*.bam
+*.sam
+*.cram
+*.fasta
+*.fa
+*.fna
+
+# Keep generated summary figures and reports under version control.
