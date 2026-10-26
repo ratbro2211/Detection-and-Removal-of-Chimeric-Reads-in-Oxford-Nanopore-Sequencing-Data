@@ -1,0 +1,7 @@
+adapter_id,label,side,sequence_iupac,length_bp,trimmed_occurrences,reverse_complemented_occurrences,source_page,source_plot,notes
+A1,Native adapter top,5prime,TTTTTTTTCCTGTACTTCGTTCAGTTACGTATTGCT,36,8496,7976,"Final_Presentation slide 13","figures/source_adapter_distributions/adapter_01_native.png","Per-adapter Cutadapt report occurrences; not unique reads"
+A2,Barcode NB022,5prime,ACAGACGACTACAAACGGAATCGA,24,NA,NA,"Final_Presentation slide 14","figures/source_adapter_distributions/adapter_02_barcode.png","Numeric trim total is not visible in the supplied summary"
+A3,27F primer,5prime,AGAGTTTGATCMTGGCTCAG,20,68949,16967,"Final_Presentation slide 15","figures/source_adapter_distributions/adapter_03_27f_primer.png","Per-adapter Cutadapt report occurrences; not unique reads"
+A4,1492R primer,3prime,TACGGYTACCTTGTTACGACTT,22,25380,16464,"Final_Presentation slide 16","figures/source_adapter_distributions/adapter_04_1492r_primer.png","Slide title is inconsistent; sequence matches the reported 1492R primer"
+A5,Barcode reverse sequence,3prime,TCGATTCCGTTTGTAGTCGTCTGT,24,26963,63,"Final_Presentation slide 17","figures/source_adapter_distributions/adapter_05_barcode_reverse.png","Per-adapter Cutadapt report occurrences; not unique reads"
+A6,Native adapter bottom,3prime,ACGTAACTGAACGAAGTACAGG,22,7763,7150,"Final_Presentation slide 18","figures/source_adapter_distributions/adapter_06_native_reverse.png","Per-adapter Cutadapt report occurrences; not unique reads"

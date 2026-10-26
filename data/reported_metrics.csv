@@ -1,0 +1,10 @@
+metric,value,unit,evidence_type,source,notes
+reads_processed,215176,reads,reported,"NGSproject PDF p.7; Final_Presentation PDF slide 12","Total reads in the reported Cutadapt summary"
+reads_removed,153681,reads,reported,"NGSproject PDF p.7; Final_Presentation PDF slide 12","Reported as reads with adapters and reads discarded as trimmed"
+reads_retained,61495,reads,reported,"NGSproject PDF p.7; Final_Presentation PDF slide 12","Reported as reads passing filters"
+read_retention_percent,28.6,percent,reported,"NGSproject PDF p.7; Final_Presentation PDF slide 12","Rounded value from source"
+reverse_complemented_reads,48697,reads,reported,"Final_Presentation PDF slide 12","Cutadapt summary label; not independently re-run"
+reverse_complemented_percent,22.6,percent,reported,"Final_Presentation PDF slide 12","Rounded value from source"
+bases_processed,139129218,bp,reported,"NGSproject PDF p.7; Final_Presentation PDF slide 12","Total bases processed"
+bases_retained,38097607,bp,reported,"NGSproject PDF p.7; Final_Presentation PDF slide 12","Total written after filtering"
+bases_retention_percent,27.4,percent,reported,"Final_Presentation PDF slide 12","Rounded value from source"
